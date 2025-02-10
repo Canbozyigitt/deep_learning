@@ -8,7 +8,7 @@ Bunu **bağlantılı "nöronlar"** ile yapar:
 
 🟢 **Girişler** → 🎛 **Ağırlıklandırma & Aktivasyon** → 🔵 **Çıkış tahmini**
 
-Yani, sinir ağları **verileri öğrenen ve örüntüler çıkaran algoritmalardır**. 😊
+Yani, sinir ağları **verileri öğrenen ve örüntüler çıkaran algoritmalardır** 😊
 
 ## Yapay Sinir  Ağları Modelleri
 
