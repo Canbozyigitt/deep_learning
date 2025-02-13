@@ -4,7 +4,7 @@
 
 Örneğin, bir yapay sinir ağına el yazısı rakamları öğretirsek, yeni bir rakam gösterildiğinde hangi sayı olduğunu tahmin edebilir. 📊
 
-Bunu **bağlantılı "nöronlar"** ile yapar
+Bunu **bağlantılı "nöronlar"** ile yapar.
 
 🟢 **Girişler** → 🎛 **Ağırlıklandırma & Aktivasyon** → 🔵 **Çıkış tahmini**
 
