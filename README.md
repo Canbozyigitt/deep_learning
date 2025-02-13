@@ -17,7 +17,7 @@ Yani, sinir ağları **verileri öğrenen ve örüntüler çıkaran algoritmalar
 📌 **Ne Zaman Kullanılır?**
 
 - Katmanlar **sırasıyla** birbirini takip ediyorsa.
-- Basit ileri beslemeli (feedforward) ağlar için uygundur.
+- Basit ileri beslemeli (feedforward) ağlar için uygundur
 
 ### **2) Functional API (Fonksiyonel Model)**
 
