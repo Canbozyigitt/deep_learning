@@ -23,7 +23,7 @@ Yani, sinir ağları **verileri öğrenen ve örüntüler çıkaran algoritmalar
 
 📌 **Ne Zaman Kullanılır?**
 
-- Birden fazla giriş veya çıkış varsa.
+- Birden fazla giriş veya çıkış varsa
 - Katmanlar **birbirine bağlı ama sıralı değilse** (örn. birden fazla yol varsa)
 
 ### **3) Model Subclassing (Özel Model Tanımlama)**
