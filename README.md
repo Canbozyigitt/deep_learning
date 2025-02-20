@@ -30,7 +30,7 @@ Yani, sinir ağları **verileri öğrenen ve örüntüler çıkaran algoritmalar
 
 📌 **Ne Zaman Kullanılır?**
 
-- **Daha karmaşık yapılar veya özel ileri yayılım işlemleri** gerektiğinde.
+- **Daha karmaşık yapılar veya özel ileri yayılım işlemleri** gerektiğinde
 - Özel ağırlık güncellemeleri, özel kayıp fonksiyonları kullanmak istenirse.
 
 ### **4) Transfer Learning Modelleri (Önceden Eğitilmiş Modeller)**
